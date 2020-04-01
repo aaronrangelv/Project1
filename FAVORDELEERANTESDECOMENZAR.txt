@@ -1,0 +1,13 @@
+Buen día profesor, le comentó rapidamente, este es mi proyecto final ya terminado nunca super como subir los avances pero ya esta terminado. Si tengo algún error en el proyecto le pido de favor me deje corregirlo despues ya que por cuestiones de salud estaré inactivo bastantes días. Gracias por su comprensión, que tenga buen día.
+
+Dejo aqui algunos datos importantes que le pueden servir 
+para correr el proyecto de manera correcta 
+
+* URL DE LA BASE DE DATOS: postgres://lrgnbguh:AAJSo5sCQQlFhr3zWZwa3VF0lhxMhNqd@otto.db.elephantsql.com:5432/lrgnbguh
+
+*API que usó para liberar carga de conexiones
+y para importar unas funciones externas de bootstrap
+para el diseño: lX5SxIGbkaf7N3miJ0UDA
+(codigo completo en caso de que lo necesite: 
+set KEY=lX5SxIGbkaf7N3miJ0UDA)
+
